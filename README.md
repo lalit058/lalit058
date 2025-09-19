@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lalit Bahadur Negi  
+## Hi there 👋 I'm <span style="color:blue">Lalit Bahadur Negi</span>  
 
 💻 **Computer Engineering Student | Web Developer | AI/ML Enthusiast**  
 
