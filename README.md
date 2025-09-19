@@ -1,7 +1,5 @@
-<h1 align="center">
-  Hi there 👋 I'm 
-  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Lalit%20Bahadur%20Negi&width=600&height=60&color=0000FF" />
-</h1>
+## Hi there 👋 I'm [Lalit Bahadur Negi](https://github.com/lalit058)
+
 
 
 
