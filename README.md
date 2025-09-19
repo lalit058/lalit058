@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋 I'm <font color="blue">Lalit Bahadur Negi</font></h1>
+<h1 align="center">Hi there 👋 I'm 
+  <img src="https://img.shields.io/badge/Lalit%20Bahadur%20Negi-0000FF?style=for-the-badge&logo=none&logoColor=white" />
+</h1>
+
 💻 **Computer Engineering Student | Web Developer | AI/ML Enthusiast**  
 
 ---
