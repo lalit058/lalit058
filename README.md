@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm <span style="color:blue">Lalit Bahadur Negi</span></h1>
+<h1 align="center">Hi there 👋 I'm <font color="blue">Lalit Bahadur Negi</font></h1>
 💻 **Computer Engineering Student | Web Developer | AI/ML Enthusiast**  
 
 ---
