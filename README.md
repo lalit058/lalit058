@@ -20,18 +20,6 @@
 
 <p align="center">
 
-<a href="https://www.learnpython.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-
-  <a href="https://www.javascript.info/">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-
-  <a href="https://www.learn-c.org/">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  
   <!-- Python -->
   <a href="https://www.learnpython.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -68,6 +56,7 @@
   </a>
 
 </p>
+
 
 
 ---
