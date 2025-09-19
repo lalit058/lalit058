@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 🎓 Currently pursuing **Computer Engineering (6th Semester)**  
 - 🌱 Learning **Django, React, and Machine Learning**  
-- 🔭 Working on projects like **Academia+ (Student Progress System)** and **Gold Price Prediction**  
+- 🔭 Working on projects like **Academia+ (Student Progress System)**  
 - 👯 Looking to collaborate on **open-source projects** and **AI-powered apps**  
 - ⚡ Fun fact: I enjoy building projects while learning new tech!  
 
