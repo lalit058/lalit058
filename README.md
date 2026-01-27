@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing **Computer Engineering (6th Semester)**  
+- 🎓 Currently pursuing **Computer Engineering (8th Semester)**  
 - 🌱 Learning **Django, React, and Machine Learning**  
 - 🔭 Working on projects like **Academia+ (Student Progress System)**  
 - 👯 Looking to collaborate on **open-source projects** and **AI-powered apps**  
